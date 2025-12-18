@@ -137,14 +137,14 @@ Business platform for managing event lifecycles, analytics, and reporting.
 ## 📊 GitHub Stats
 > Token-backed, self-hosted GitHub statistics (includes private work where GitHub ownership rules allow).
 
-![](https://STATS-APP-NAME.vercel.app/api?username=7ODAWI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats-jet-three-11.vercel.app/api?username=7ODAWI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-![](https://STATS-APP-NAME.vercel.app/api/top-langs/?username=7ODAWI&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats-jet-three-11.vercel.app/api/top-langs/?username=7ODAWI&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=7ODAWI&theme=radical&no-frame=true)
+![](https://github-readme-stats-jet-three-11.vercel.app/?username=7ODAWI&theme=radical&no-frame=true)
 
 ---
 
@@ -160,7 +160,7 @@ Business platform for managing event lifecycles, analytics, and reporting.
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats-jet-three-11.vercel.app/api?username=7ODAWI&type=horizontal&theme=radical)
 
 <!--
 This profile is intentionally optimized for:
