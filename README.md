@@ -1,63 +1,68 @@
 # 👨‍💻 Mahmoud Altahrawi | محمود الطهراوي
 **Senior Backend / .NET Developer**
 
-Backend-focused engineer with **3+ years of professional experience** building  
+Backend-focused software engineer with **3+ years of professional experience** designing and delivering  
 **scalable, secure, production-grade backend systems** using  
 **ASP .NET Core**, **RESTful APIs**, and **SQL Server**.
 
-Most of my real-world work is delivered through **private repositories** and  
-**organization-owned projects** (internal systems, enterprise platforms, client applications).
+My work is primarily delivered through **private repositories** and  
+**organization-owned projects**, including enterprise platforms, internal systems, and client solutions.
 
-> I focus on **systems that run businesses**, not demo projects.
+> I specialize in building **systems that run real businesses**, not demo or tutorial projects.
 
 ---
 
 ## 💫 About Me
 👋 Hi there  
 
-🚀 **What I'm currently working on**  
-👉 Building scalable backend systems using **ASP .NET Core**, RESTful APIs, and SQL Server  
+🚀 **Currently working on**  
+Designing, maintaining, and optimizing backend systems using **ASP .NET Core**, REST APIs, and SQL Server  
 
-👯‍♂️ **I'm looking to collaborate on**  
-👉 Backend-heavy web applications, enterprise systems, and API-driven platforms  
+👯‍♂️ **Open to collaboration on**  
+Backend-heavy applications, enterprise systems, and API-driven platforms  
 
-🆘 **I'm looking for help with**  
-👉 Advanced backend architecture and performance optimization  
+🆘 **Looking to improve**  
+Advanced backend architecture, scalability, and performance optimization  
 
-🌱 **I'm currently learning**  
-👉 Cloud-ready backend design and large-scale system optimization  
+🌱 **Currently learning**  
+Cloud-ready backend architectures and large-scale system design principles  
 
 💬 **Ask me about**  
-👉 ASP .NET Core, REST APIs, SQL Server, Clean Architecture  
+ASP .NET Core, REST APIs, SQL Server, Clean Architecture, backend system design  
 
 ⚡ **Fun fact**  
-👉 Enjoys solving complex backend problems more than writing UI  
+I enjoy optimizing backend logic more than building user interfaces  
 
 ---
 
 ## 🧠 Professional Summary
-- Backend specialist with strong ownership mindset  
-- Experience delivering **end-to-end backend systems**  
-- Comfortable working with **private, production, and enterprise codebases**  
-- Strong emphasis on **clean architecture, scalability, and data integrity**  
+- Senior backend engineer with strong ownership and accountability mindset  
+- Delivered **end-to-end backend systems** used in real production environments  
+- Extensive experience working with **private, enterprise, and organization-owned codebases**  
+- Strong focus on **clean architecture, scalability, performance, and data integrity**
 
 مطور أنظمة خلفية بخبرة عملية في بناء أنظمة أعمال حقيقية تعمل في بيئات إنتاج فعلية،  
 مع تركيز قوي على جودة الكود، الأداء، وقابلية التوسع.
 
 ---
 
-## 🔐 About My Work (Private Repositories)
-⚠️ **Important for reviewers & recruiters**
+## 🔐 About My Work (Private & Organization Repositories)
+⚠️ **Important note for recruiters and reviewers**
 
-- Most of my professional work exists in **private repositories**
-- Many projects are owned by:
+- The majority of my professional work exists in **private repositories**
+- These repositories are owned by:
   - Companies
   - Organizations
   - Client accounts
-- Due to confidentiality, source code is not public
-- **Full system ownership, architecture, and delivery were handled by me**
+- Due to confidentiality and NDAs, source code cannot be made public
+- My responsibilities typically include:
+  - Backend architecture and system design
+  - API design and implementation
+  - Database design and optimization
+  - Production deployment and maintenance
 
-✅ This profile represents **real production experience**, not hobby projects.
+✅ My overall contribution activity (including private and organization repositories)  
+is reflected in my **GitHub contribution graph**, and in token-backed stats where GitHub allows.
 
 ---
 
@@ -66,32 +71,32 @@ Most of my real-world work is delivered through **private repositories** and
 ### Backend & Architecture
 - ASP .NET Core (Web API, MVC)
 - Clean Architecture
-- SOLID Principles
-- Repository Pattern
+- SOLID principles
+- Repository pattern
 - Dependency Injection
 
 ### APIs & Integrations
-- RESTful API Design
-- Third-party API Integration
-- Authentication & Authorization
+- RESTful API design
+- Third-party API integration
+- Authentication & authorization
 - Secure backend workflows
 
 ### Databases
 - SQL Server
-- Schema & ERD Design
-- Indexing & Query Optimization
-- Data integrity & performance tuning
+- Schema & ERD design
+- Indexing and query optimization
+- Performance tuning and data integrity
 
 ### Reporting & Analytics
-- RDLC Reports
+- RDLC reports
 - Chart.js
-- Operational & management dashboards
+- Operational and management dashboards
 
-### Tooling
+### Tooling & Practices
 - Git & GitHub
 - Swagger / OpenAPI
 - Postman
-- Production debugging & maintenance
+- Production debugging and long-term maintenance
 
 ---
 
@@ -106,49 +111,35 @@ Most of my real-world work is delivered through **private repositories** and
 
 ---
 
-## 📌 Selected Professional Systems (Private / Production)
+## 📌 Selected Production Systems (Private)
 
 ### 🚍 School Bus Tracking Platform
-**Type:** Production system (Private)
-
-- Backend for routes, students, drivers, vehicles
-- Role-based access control
-- Real-time location logic
-- Optimized relational database
+Production backend system managing routes, students, drivers, and vehicles.
 
 **Tech:** ASP .NET Core, SQL Server, Google Maps API
 
 ---
 
 ### 🧑‍💼 Enterprise HR Management System
-**Type:** Company internal system (Private)
-
-- Employees, attendance, payroll
-- Secure multi-user workflows
-- Reporting for management
-- End-to-end backend ownership
+Internal enterprise system covering employees, attendance, payroll, and reporting.
 
 **Tech:** ASP .NET Core, SQL Server, RDLC
 
 ---
 
 ### 📊 Events & Operations Management System
-**Type:** Business platform (Private)
-
-- Event lifecycle management
-- Analytics & reporting
-- API-first backend design
+Business platform for managing event lifecycles, analytics, and reporting.
 
 **Tech:** ASP .NET Core, SQL Server, Chart.js
 
 ---
 
 ## 📊 GitHub Stats
-> Using a self-hosted stats instance to include private work where possible.
+> Token-backed, self-hosted GitHub statistics (includes private work where GitHub ownership rules allow).
 
-![](https://YOUR-APP-NAME.vercel.app/api?username=7ODAWI&show_icons=true&theme=dark&hide_border=true)
+![](https://STATS-APP-NAME.vercel.app/api?username=7ODAWI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-![](https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=7ODAWI&layout=compact&theme=dark&hide_border=true)
+![](https://STATS-APP-NAME.vercel.app/api/top-langs/?username=7ODAWI&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -157,14 +148,14 @@ Most of my real-world work is delivered through **private repositories** and
 
 ---
 
-## 🌐 Socials
+## 🌐 Contact & Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-altahrawi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7odawi@gmail.com)
 
 ---
 
 ### ✍️ Engineering Philosophy
-> “Production experience is measured by responsibility, not by public commits.”
+> “Production experience is measured by responsibility, ownership, and system reliability — not by public commit counts.”
 
 ---
 
@@ -173,7 +164,7 @@ Most of my real-world work is delivered through **private repositories** and
 
 <!--
 This profile is intentionally optimized for:
-- Backend / .NET roles
+- Senior Backend / .NET roles
 - Enterprise & SaaS environments
-- Engineers with private / organization-based work
+- Engineers working on private and organization-owned systems
 -->
