@@ -144,8 +144,7 @@ Business platform for managing event lifecycles, analytics, and reporting.
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-readme-stats-jet-three-11.vercel.app/?username=7ODAWI&theme=radical&no-frame=true)
-
+![](https://github-readme-stats-jet-three-11.vercel.app/api?username=7ODAWI&type=horizontal&theme=radical&no-frame=true)
 ---
 
 ## 🌐 Contact & Socials
@@ -157,10 +156,7 @@ Business platform for managing event lifecycles, analytics, and reporting.
 ### ✍️ Engineering Philosophy
 > “Production experience is measured by responsibility, ownership, and system reliability — not by public commit counts.”
 
----
 
-### ✍️ Random Dev Quote
-![](https://github-readme-stats-jet-three-11.vercel.app/api?username=7ODAWI&type=horizontal&theme=radical)
 
 <!--
 This profile is intentionally optimized for:
